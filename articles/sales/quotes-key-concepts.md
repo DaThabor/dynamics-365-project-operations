@@ -51,7 +51,7 @@ A project quote in Project Operations can have multiple line items or quote line
 The amount on a quote is the total across the product-based lines and the project-based lines.
 
 > [!NOTE]
-> Quotes and quote lines aren't required in PProject Operations. You can start the project process with a project contract (sold project). However, an opportunity is always required, regardless of whether you start with a quote or a project contract.
+> Quotes and quote lines aren't required in Project Operations. You can start the project process with a project contract (sold project). However, an opportunity is always required, regardless of whether you start with a quote or a project contract.
 
 ## Project-based quote lines
 
